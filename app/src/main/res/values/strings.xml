@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuideManager</string>
+    <string name="dialog_guide_text">Show Dialog Guide</string>
+    <string name="fragment_guide_text">Show Fragment Guide</string>
+    <string name="dialog_guide_text_1">1.登录平台</string>
+    <string name="dialog_guide_text_2">2.选择开发者模式</string>
+    <string name="dialog_guide_text_3">3.填写您的凭证</string>
+</resources>
